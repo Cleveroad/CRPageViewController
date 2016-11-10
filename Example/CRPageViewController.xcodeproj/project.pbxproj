@@ -20,9 +20,6 @@
 		6003F5B1195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
-		CF47D1211DD48AAC0015912F /* GSTouchesShowingWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = CF47D11E1DD48AAC0015912F /* GSTouchesShowingWindow.m */; };
-		CF47D1221DD48AAC0015912F /* GSTouchImage.png in Resources */ = {isa = PBXBuildFile; fileRef = CF47D11F1DD48AAC0015912F /* GSTouchImage.png */; };
-		CF47D1231DD48AAC0015912F /* GSTouchImage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CF47D1201DD48AAC0015912F /* GSTouchImage@2x.png */; };
 		CF605CE01DD2252000905C4D /* QSRateControl.m in Sources */ = {isa = PBXBuildFile; fileRef = CF605CDF1DD2252000905C4D /* QSRateControl.m */; };
 		CF7A2D191CF6E7000087D357 /* CRChildViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF7A2D181CF6E7000087D357 /* CRChildViewController.m */; };
 		CF8F63A01CF5B23C00EDAEFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF8F639F1CF5B23C00EDAEFE /* LaunchScreen.storyboard */; };
@@ -61,10 +58,6 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		8B751223781846907A308421 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		9C0A91B6AB4F05FCF4B37336 /* CRPageViewController.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CRPageViewController.podspec; path = ../CRPageViewController.podspec; sourceTree = "<group>"; };
-		CF47D11D1DD48AAC0015912F /* GSTouchesShowingWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GSTouchesShowingWindow.h; sourceTree = "<group>"; };
-		CF47D11E1DD48AAC0015912F /* GSTouchesShowingWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GSTouchesShowingWindow.m; sourceTree = "<group>"; };
-		CF47D11F1DD48AAC0015912F /* GSTouchImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GSTouchImage.png; sourceTree = "<group>"; };
-		CF47D1201DD48AAC0015912F /* GSTouchImage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GSTouchImage@2x.png"; sourceTree = "<group>"; };
 		CF605CDE1DD2252000905C4D /* QSRateControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QSRateControl.h; sourceTree = "<group>"; };
 		CF605CDF1DD2252000905C4D /* QSRateControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QSRateControl.m; sourceTree = "<group>"; };
 		CF7A2D171CF6E7000087D357 /* CRChildViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CRChildViewController.h; path = ViewControllers/CRChildViewController.h; sourceTree = "<group>"; };
@@ -134,10 +127,6 @@
 			children = (
 				6003F59C195388D20070C39A /* CRAppDelegate.h */,
 				6003F59D195388D20070C39A /* CRAppDelegate.m */,
-				CF47D11D1DD48AAC0015912F /* GSTouchesShowingWindow.h */,
-				CF47D11E1DD48AAC0015912F /* GSTouchesShowingWindow.m */,
-				CF47D11F1DD48AAC0015912F /* GSTouchImage.png */,
-				CF47D1201DD48AAC0015912F /* GSTouchImage@2x.png */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
@@ -307,11 +296,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CF47D1221DD48AAC0015912F /* GSTouchImage.png in Resources */,
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				CF8F63A01CF5B23C00EDAEFE /* LaunchScreen.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
-				CF47D1231DD48AAC0015912F /* GSTouchImage@2x.png in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -379,7 +366,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F59E195388D20070C39A /* CRAppDelegate.m in Sources */,
-				CF47D1211DD48AAC0015912F /* GSTouchesShowingWindow.m in Sources */,
 				6003F5A7195388D20070C39A /* CRViewController.m in Sources */,
 				CF7A2D191CF6E7000087D357 /* CRChildViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
