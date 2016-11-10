@@ -1,0 +1,14 @@
+PODS:
+  - CRPageViewController (0.1.0)
+
+DEPENDENCIES:
+  - CRPageViewController (from `../`)
+
+EXTERNAL SOURCES:
+  CRPageViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CRPageViewController: 44f82fd14b176988d557dc20592dffb0a9f0bd82
+
+COCOAPODS: 0.39.0

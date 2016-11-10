@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'CRPageViewController_Example' do
+  pod 'CRPageViewController', :path => '../'
+end
