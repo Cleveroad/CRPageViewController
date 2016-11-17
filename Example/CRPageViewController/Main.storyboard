@@ -97,7 +97,7 @@
                                         <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="500" minValue="500" maxValue="600" translatesAutoresizingMaskIntoConstraints="NO" id="NpE-aa-9xy">
+                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="500" minValue="500" maxValue="540" translatesAutoresizingMaskIntoConstraints="NO" id="NpE-aa-9xy">
                                         <constraints>
                                             <constraint firstAttribute="height" constant="30" id="nPb-pn-70n"/>
                                         </constraints>
@@ -185,7 +185,7 @@
                             <constraint firstAttribute="trailing" secondItem="yTA-CG-P7I" secondAttribute="trailing" id="E1d-37-oL4"/>
                             <constraint firstItem="BgH-5f-TVB" firstAttribute="leading" secondItem="TpU-gO-2f1" secondAttribute="leading" id="FHV-L5-Mhb"/>
                             <constraint firstItem="Mvr-aV-6Um" firstAttribute="top" secondItem="BgH-5f-TVB" secondAttribute="bottom" id="Fqd-sb-oIF"/>
-                            <constraint firstItem="BgH-5f-TVB" firstAttribute="top" secondItem="uEw-UM-LJ8" secondAttribute="bottom" constant="50" id="qaJ-W3-kR3"/>
+                            <constraint firstItem="BgH-5f-TVB" firstAttribute="top" secondItem="uEw-UM-LJ8" secondAttribute="bottom" id="qaJ-W3-kR3"/>
                             <constraint firstItem="yTA-CG-P7I" firstAttribute="top" secondItem="uEw-UM-LJ8" secondAttribute="bottom" id="rBP-KX-xWJ"/>
                         </constraints>
                     </view>
@@ -218,7 +218,7 @@
                         <viewControllerLayoutGuide type="bottom" id="R9i-TS-pTv"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="Sfo-Tr-bAV">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="553"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="0.081923491379310348" colorSpace="calibratedRGB"/>
                     </view>
