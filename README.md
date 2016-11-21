@@ -95,11 +95,14 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Support
 
-If you have any questions, issues or propositions, please create a <a href="https://github.com/Cleveroad/CRPageViewController/issues">new issue</a> in this repository. If you want to hire us, send an email to sales@cleveroad.com or fill the form on <a href="https://www.cleveroad.com/contact">contact page</a>.
+If you have any questions, issues or propositions, please create a <a href="../../issues/new">new issue</a> in this repository.
 
-## Author
+If you want to hire us, send an email to sales@cleveroad.com or fill the form on <a href="https://www.cleveroad.com/contact">contact page</a>
 
-[Sergey Chuchukalo](Chuchukalo.cr@gmail.com)
+Follow us:
+
+[![Awesome](/images/social/facebook.png)](https://www.facebook.com/cleveroadinc/)   [![Awesome](/images/social/twitter.png)](https://twitter.com/cleveroadinc)   [![Awesome](/images/social/google.png)](https://plus.google.com/+CleveroadInc)   [![Awesome](/images/social/linkedin.png)](https://www.linkedin.com/company/cleveroad-inc-)   [![Awesome](/images/social/youtube.png)](https://www.youtube.com/channel/UCFNHnq1sEtLiy0YCRHG2Vaw)
+<br/>
 
 ## License
 
