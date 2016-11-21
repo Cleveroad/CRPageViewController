@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/CRPageViewController.svg?style=flat)](http://cocoapods.org/pods/CRPageViewController)
 [![Platform](https://img.shields.io/cocoapods/p/CRPageViewController.svg?style=flat)](http://cocoapods.org/pods/CRPageViewController)
 
+![Header image](/images/header.jpg)
+
 ## Meet CRPageViewController - Customizable PageViewController for iOS
 
 Cleveroad is happy to present a new library for iOS apps — CRPageViewController. CRPageViewController is customise PageViewController. CRPageViewController allows implement cards form of UIViewController.
