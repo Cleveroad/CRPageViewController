@@ -9,11 +9,13 @@
 
 ## Meet CRPageViewController - Customizable PageViewController for iOS
 
-Cleveroad is happy to present a new library for iOS apps — CRPageViewController. CRPageViewController is customise PageViewController. CRPageViewController allows implement cards form of UIViewController.
+Hey, guys! Cleveroad team has got something really interesting for you. Meet our new iOS library - CRPageViewController. We’re sure that you’ve already checked the convenience of Page View long time ago. But we’ve made something that will make navigation between pages of your app even handier.
 
 ![Demo image](/images/demo.gif)
 
-If you want to take cards form of UIViewController, take CRPageViewController. Integrate your iOS app with CRPageViewController library and try out all the benefits it provides.
+While a standard page view allows you to navigate between pages by using simple gestures, our component goes further. CRPageViewController allows defining a page size by setting width and heights manually. Thus, users will be able to control the placement of pages on the screens in the way which is more suitable for them. 
+
+We’re convinced that users will find this component really useful and will be grateful for such a good tool.  
 
 [![Awesome](/images/logo-footer.png)](https://www.cleveroad.com/?utm_source=github&utm_medium=label&utm_campaign=contacts)
 <br/>
