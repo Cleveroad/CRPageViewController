@@ -11,7 +11,12 @@
 
 Cleveroad is happy to present a new library for iOS apps — CRPageViewController. CRPageViewController is customise PageViewController. CRPageViewController allows implement cards form of UIViewController.
 
+![Demo image](/images/demo.gif)
+
 If you want to take cards form of UIViewController, take CRPageViewController. Integrate your iOS app with CRPageViewController library and try out all the benefits it provides.
+
+[![Awesome](/images/logo-footer.png)](https://www.cleveroad.com/?utm_source=github&utm_medium=label&utm_campaign=contacts)
+<br/>
 
 ## Requirements
 
