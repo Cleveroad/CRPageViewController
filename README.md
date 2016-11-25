@@ -7,7 +7,7 @@
 
 ![Header image](/images/header.jpg)
 
-## Meet CRPageViewController - Customizable PageViewController for iOS
+## Meet Page View Controller for iOS by Cleveroad
 
 Hey, guys! Cleveroad team has got something really interesting for you. Meet our new iOS library - CRPageViewController. We’re sure that you’ve already checked the convenience of Page View long time ago. But we’ve made something that will make navigation between pages of your app even handier.
 
