@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/chuchukalo_cr/Documents/CRPageViewController/Example/build/Debug-iphonesimulator/CRPageViewController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CRPageViewController-Swift.h",
+          'external-contents': "/Users/chuchukalo_cr/Documents/CRPageViewController/Example/build/Debug-iphonesimulator/CRPageViewController.framework/Headers/CRPageViewController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CRPageViewController-umbrella.h",
+          'external-contents': "/Users/chuchukalo_cr/Documents/CRPageViewController/Example/Pods/Target Support Files/CRPageViewController/CRPageViewController-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "CRPageViewController.h",
+          'external-contents': "/Users/chuchukalo_cr/Documents/CRPageViewController/CRPageViewController/Classes/CRPageViewController/CRPageViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/chuchukalo_cr/Documents/CRPageViewController/Example/build/Debug-iphonesimulator/CRPageViewController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/chuchukalo_cr/Documents/CRPageViewController/Example/build/Pods.build/Debug-iphonesimulator/CRPageViewController.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

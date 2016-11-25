@@ -1,0 +1,6 @@
+framework module CRPageViewController {
+  umbrella header "CRPageViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
