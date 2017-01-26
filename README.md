@@ -37,10 +37,8 @@ it, simply add the following line to your Podfile:
 pod "CRPageViewController"
 ```
 and run pod install in terminal.
-Usage
 
-
-## CRPageViewController
+## Usage
 
 ```c
 @protocol CRPageViewControllerDataSource <NSObject>
